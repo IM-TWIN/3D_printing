@@ -39,3 +39,12 @@ See the figure for the correct reference. This line makes the extruder stop for 
     * extruder temperature: 200 degree
     * bed temperature 60: degree
     * velocity: 60 mm
+
+### Print test
+
+Little empty box 20x20x5 mm, thickness 1 mm.
+File [test_anycubic.stl](example_files/test_anycubic.stl), made on [Tinkercad](www.tinkercad.com).
+
+<img src="images/test_box.png" alt="drawing" width="500"/>
+
+<img src="images/printed_box.jpg" alt="drawing" width="500"/>

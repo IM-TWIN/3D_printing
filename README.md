@@ -3,7 +3,7 @@
 
 # 3D printing
 
-This page describes the 3d printers and settings used in our lab at [Institute of Cognitive Sciences and Technologies, National Research Council of Italy](www.istc.cnr.it).
+This page describes the 3d printers and settings used in our lab at [Institute of Cognitive Sciences and Technologies, National Research Council of Italy](https://www.istc.cnr.it).
  
 3D printers:
 
@@ -43,7 +43,7 @@ See the figure for the correct reference. This line makes the extruder stop for 
 ### Print test
 
 Little empty box 20x20x5 mm, thickness 1 mm.
-File [test_anycubic.stl](example_files/test_anycubic.stl), made on [Tinkercad](www.tinkercad.com).
+File [test_anycubic.stl](example_files/test_anycubic.stl), made on [Tinkercad](https://www.tinkercad.com).
 
 <img src="images/test_box.png" alt="drawing" width="500"/>
 

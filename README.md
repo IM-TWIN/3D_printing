@@ -8,7 +8,7 @@ This page describes the 3d printers and settings used in our lab at [Institute o
 3D printers:
 
 * Anycubic Kossel Linear Plus
-* Prusa i3 MK3S+ (coming soon!)
+* Prusa i3 MK3S+
 
 ## Software and settings Anycubic Kossel 
 
@@ -36,6 +36,44 @@ See the figure for the correct reference. This line makes the extruder stop for 
 ### Materials settings
 
 * PLA
+    * extruder temperature: 200 degree
+    * bed temperature 60: degree
+    * velocity: 60 mm
+
+### Print test
+
+Little empty box 20x20x5 mm, thickness 1 mm.
+File [test_anycubic.stl](example_files/test_anycubic.stl), made on [Tinkercad](https://www.tinkercad.com).
+
+<img src="images/test_box.png" alt="drawing" width="500"/>
+
+<img src="images/printed_box.jpg" alt="drawing" width="500"/>
+
+
+
+## Software and settings Prusa i3 MK3S+
+
+Prusa Slicer [Slicer 2.4.1] https://www.prusa3d.com/it/pagina/prusaslicer_424/ tested on:
+
+* Windows 
+* Ubuntu 20.04. Download the ** "Linux 64 bit, AppImage" ** (and make it executable!).
+* Mac (to be tested)
+
+Once installed, configure the software selecting the <em>Original Prusa i3 MK3S e MK3S+</em>  in the list of available 3d printers. 
+
+
+### G-Code settings
+
+All default settings are correct.
+You can select the filament type (e.g. PLA) and the print settings (Speed VS Qality and filament thickness)
+
+
+<img src="images/priusa.JPG" alt="drawing" width="500"/>
+
+
+### Materials settings
+
+* PLA 
     * extruder temperature: 200 degree
     * bed temperature 60: degree
     * velocity: 60 mm

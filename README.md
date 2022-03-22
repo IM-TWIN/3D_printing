@@ -68,7 +68,7 @@ All default settings are correct.
 You can select the filament type (e.g. PLA) and the print settings (Speed VS Qality and filament thickness)
 
 
-<img src="images/priusa.JPG" alt="drawing" width="500"/>
+<img src="images/prusa.JPG" alt="drawing" width="500"/>
 
 
 ### Materials settings
